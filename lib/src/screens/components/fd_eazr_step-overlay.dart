@@ -153,7 +153,7 @@ class FDEazrStepOverlayState extends State<FDEazrStepOverlay>
 class OverlayWithHolePainter extends CustomPainter {
   @override
   void paint(Canvas canvas, Size size) {
-    final paint = Paint()..color = const Color(0xFF40F29A);
+    final paint = Paint()..color = const Color(0xFF2B47A6);
     //canvas.drawOval(Rect.fromCircle(center: Offset(size.width /2,size.height/2), radius: size.width /2), paint);
 
     // canvas.drawCircle(Offset(size.width /2,size.height/2),  size.width /2, paint);
